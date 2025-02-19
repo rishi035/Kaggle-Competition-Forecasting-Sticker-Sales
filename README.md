@@ -10,7 +10,7 @@ Random Forest Regressor: A robust machine learning algorithm used for regression
 
 **Kaggle Leaderboard:**
 
-As of now, my model ranks 390th out of 1050 participants on the Kaggle leaderboard. I will update the final standings at the end of the competition.
+my model ranks 1090th out of 2722 participants on the Kaggle leaderboard. Iam Happy that iam improving my self compare to previous competition 
 
 **Data:**
 
